@@ -1,0 +1,19 @@
+{
+  "name": "base64-transform-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "node index.test.mjs"
+  },
+  "exports": {
+    ".": {
+      "import": "./index.mjs",
+      "types": "./index.d.ts"
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
